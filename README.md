@@ -8,12 +8,12 @@ Google Gemini 作为领先的AI助手，不断推出更强大的版本，致力�
 
 为了让您能够便捷地使用 **Google Gemini** 的最新技术，我们特别推荐以下两个优质的 **Gemini 中文版** 体验网站：
 
-*   **Gemini 镜像站：`[https://xsimplechat.com](https://xsimplechat.com)`**
+*   **Gemini 镜像站：[https://xsimplechat.com](https://xsimplechat.com)**
     *   该网站是 **Gemini 中文版** 的一个优秀选择，支持 Gemini 2.5 Pro 等先进模型。
     *   它提供 AI 绘画功能，并且支持扫码即可使用，大大简化了用户的入门流程。
     *   除了 Gemini 模型，该网站还支持 Claude 4.5 Sonnet、GPT-o1、o3 以及 Groq-4 等多种领先的 AI 模型，为您提供多样化的选择。
 
-*   **Gemini 中文版：`[https://ai.lanjingai.org](https://ai.lanjingai.org)`**
+*   **Gemini 中文版：[https://ai.lanjingai.org](https://ai.lanjingai.org)**
     *   作为另一个高质量的 **Gemini 中文版** 站点，它同样支持 Gemini 2.5 Pro 模型，并提供无限次使用。
     *   该平台集成了 Gemini 2.5 Pro、Claude 4.5 Sonnet、Grok 4、GPT-4o、o1、o3 以及 DeepSeek R1 等众多最先进的 AI 模型，功能极为丰富。
 
