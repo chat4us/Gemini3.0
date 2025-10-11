@@ -1,12 +1,14 @@
 # Gemini 中文版国内直接访问终极指南 (2025最新)，欢迎来到 Gemini 3.0 Pro 时代
 
+> 更新时间：2025/10/12
+
 Google Gemini 作为领先的AI助手，不断推出更强大的版本，致力于为全球用户提供卓越的智能体验。目前，**Google Gemini** 的最新前沿模型是 Gemini 2.5 Pro，而备受期待的 Gemini 3.0 已于近期上线。为了满足国内用户的需求，**Gemini 中文版** 应运而生，提供更流畅、更精准的中文对话体验，并拥有国内直连、中文优化和强大功能等优势。
 
 要无障碍地体验 **Gemini** 3.0 的强大功能，尤其是其免费版本所提供的巨大上下文窗口和多模态能力，国内用户无需注册即可轻松访问。这些 **Gemini 中文版** 镜像网站不仅消除了网络限制的障碍，更提供了与官方功能相媲美的服务，是提升工作或学习效率的理想选择。
 
 ### 推荐的 Gemini 3.0 中文版体验网站
 
-为了让您能够便捷地使用 **Google Gemini** 的最新技术，我们特别推荐以下两个优质的 **Gemini 中文版** 体验网站：
+为了让您能够便捷地使用 **Google Gemini** 的最新技术，我们特别推荐以下几个优质的 **Gemini 中文版** 体验网站：
 
 *   **Gemini 镜像站：[https://xsimplechat.com](https://xsimplechat.com)**
     *   该网站是 **Gemini 中文版** 的一个优秀选择，支持 Gemini 2.5 Pro 等先进模型。
@@ -16,6 +18,10 @@ Google Gemini 作为领先的AI助手，不断推出更强大的版本，致力�
 *   **Gemini 中文版：[https://ai.lanjingai.org](https://ai.lanjingai.org)**
     *   作为另一个高质量的 **Gemini 中文版** 站点，它同样支持 Gemini 2.5 Pro 模型，并提供无限次使用。
     *   该平台集成了 Gemini 2.5 Pro、Claude 4.5 Sonnet、Grok 4、GPT-4o、o1、o3 以及 DeepSeek R1 等众多最先进的 AI 模型，功能极为丰富。
+
+*   **Gemini 官方体验站：[https://www.gemini-chinese.com](https://www.gemini-chinese.com)**
+    *   此网站专为国内用户提供 Gemini 的直接访问体验，让您能够轻松使用最新的 Gemini 模型。
+    *   它致力于提供流畅、稳定的中文交互，是快速上手和体验 Gemini 强大功能的又一绝佳选择。
 
 ### Gemini 3.0 中文版的核心优势
 
@@ -35,6 +41,7 @@ Google Gemini 作为领先的AI助手，不断推出更强大的版本，致力�
 
 **Gemini 中文版** 的推出，极大地便利了中国大陆用户体验 **Google Gemini** 这一先进的 AI 技术。通过上述推荐的镜像网站，您可以轻松访问和利用 **Gemini** 3.0 的强大功能，无论是进行创作、规划、头脑风暴，还是日常学习和工作，**Gemini** 都将是您不可或缺的智能助手。
 
+参考：
 [1] https://zhuanlan.zhihu.com/p/1914371459469542355
 
 [2] https://zhuanlan.zhihu.com/p/1959678432075056981
