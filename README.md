@@ -36,7 +36,9 @@ Google Gemini 作为领先的AI助手，不断推出更强大的版本，致力�
 **Gemini 中文版** 的推出，极大地便利了中国大陆用户体验 **Google Gemini** 这一先进的 AI 技术。通过上述推荐的镜像网站，您可以轻松访问和利用 **Gemini** 3.0 的强大功能，无论是进行创作、规划、头脑风暴，还是日常学习和工作，**Gemini** 都将是您不可或缺的智能助手。
 
 [1] https://zhuanlan.zhihu.com/p/1914371459469542355
+
 [2] https://zhuanlan.zhihu.com/p/1959678432075056981
+
 [3] https://zhuanlan.zhihu.com/p/1918343524941825662
 [4] https://blog.google/intl/zh-tw/products/explore-get-answers/gemini-live-zhtw/
 [5] https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=en_US
