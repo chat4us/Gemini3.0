@@ -40,35 +40,67 @@ Google Gemini 作为领先的AI助手，不断推出更强大的版本，致力�
 [2] https://zhuanlan.zhihu.com/p/1959678432075056981
 
 [3] https://zhuanlan.zhihu.com/p/1918343524941825662
+
 [4] https://blog.google/intl/zh-tw/products/explore-get-answers/gemini-live-zhtw/
+
 [5] https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=en_US
+
 [6] https://ai.google.dev/gemini-api/docs/models?hl=ja
+
 [7] https://blog.google/intl/zh-tw/products/explore-get-answers/ai-mode-zhtw/
+
 [8] https://gemini.google.com/
+
 [9] https://apps.apple.com/us/app/google-gemini/id6477489729
+
 [10] https://support.google.com/gemini/answer/15984485?hl=ja&co=GENIE.Platform%3DAndroid
+
 [11] https://gemini.google/assistant/?hl=zh-TW
+
 [12] https://www.easemate.ai/tw/ai-chat/gemini-3-free
+
 [13] https://home.google.com/get-inspired/bring-home-the-magic-of-gemini/
+
 [14] https://apps.apple.com/tw/app/google-gemini/id6477489729
+
 [15] https://gemini.google.com/?hl=zh-CN
+
 [16] https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=zh_CN
+
 [17] https://juejin.cn/post/7397024981580972044
+
 [18] https://gemini.google.com/?hl=zh-TW
+
 [19] https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise
+
 [20] https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=zh_TW
+
 [21] https://www.bilibili.com/video/BV1zMjAzaEdD/
+
 [22] https://gemini.google/tw/students/?hl=zh-TW
+
 [23] https://support.google.com/gemini/answer/15984485?hl=zh-Hans&co=GENIE.Platform%3DAndroid
+
 [24] https://aistudio.google.com/prompts/new_chat
+
 [25] https://aistudio.google.com/
+
 [26] https://gemini.google/tw/students/
+
 [27] https://blog.google/products/google-cloud/gemini-enterprise-sundar-pichai/
+
 [28] https://deepmind.google/models/gemini/
+
 [29] https://www.google-gemini.cc/gemini_tags-814.html
+
 [30] https://gemini.google/overview/video-generation/?hl=zh-TW
+
 [31] https://gemini.google.com/?hl=zh
+
 [32] https://github.com/LiLittleCat/awesome-free-chatgpt
+
 [33] https://www.bilibili.com/video/BV1vAtgzuEzc/
+
 [34] https://blog.csdn.net/weixin_41993692/article/details/149418582
+
 [35] https://www.nodeseek.com/post-48472-1
